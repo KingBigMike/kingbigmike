@@ -41,6 +41,7 @@ I learn by breaking things, then documenting exactly how I broke them and how I'
 
 | Project | Description |
 |---|---|
+| **[Metasploitable2 — Nmap Intensive Scan](#)** | This report documents an intensive Nmap scan (`-sV -sC`) against a Metasploitable2 VM (192.168.0.156), followed by targeted vulnerability research on 6 open ports |
 | **[Incident Response Case Study](#)** | Full malware analysis + IR writeup of a real Rhadamanthys infostealer infection — infection vector, clipboard hijack mechanism, account compromise, and remediation |
 | **[Wazuh Detection Engineering Lab](#)** | Custom decoders/rules for ingesting non-standard Apache logs into Wazuh; documented every troubleshooting step |
 | **[Web App Pentest Writeups](#)** | PortSwigger lab solutions and methodology notes, organized by vulnerability class |
