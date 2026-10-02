@@ -5,7 +5,7 @@
 I learn by breaking things, then documenting exactly how I broke them and how I'd catch it next time. My portfolio spans offensive testing (web app pentesting, bug bounty) and defensive work (SIEM detection engineering, incident response).
 
 ![Profile views](https://komarev.com/ghpvc/?username=kingbigmike&color=blue&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ofoegbu-michael/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=googlechrome&logoColor=white)](https://#)
 
 ---
@@ -65,7 +65,7 @@ I learn by breaking things, then documenting exactly how I broke them and how I'
 ## 📫 Reach Me
 
 - **Portfolio:** coming soon
-- **LinkedIn:** coming soon
+- **LinkedIn:** (https://www.linkedin.com/in/ofoegbu-michael/)
 - **Email:** ofoegbumicky@gmail.com
 
 *Open to freelance web app pentesting and security assessment work.*
